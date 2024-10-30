@@ -2,8 +2,8 @@ package bucles;
 
 public class EjemploFor {
 	public static void main (String[]args) {
-
-		for(int i=0;i<10;i++) {
+		int lim=10;
+		for(int i=0;i<lim;i++) {
 		System.out.println("El número es: "+ i);	
 		}	
 	}
