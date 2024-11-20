@@ -8,7 +8,8 @@ public class EjemploDoWhile {
 		num=num +1;
 			
 		}while(num<10);
-		
+		System.out.println("Me gustan los zapatitos zapatillukys");	
+
 		
 	
 	
