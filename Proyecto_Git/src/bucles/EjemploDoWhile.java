@@ -9,7 +9,7 @@ public class EjemploDoWhile {
 			
 		}while(num<10);
 		System.out.println("Me gustan los zapatitos zapatillukys");	
-
+		
 		
 	
 	
