@@ -1,5 +1,5 @@
 package bucles;
-
+import java.util.Scanner;
 public class VectorEnBucle {
 	  public static void main(String[] args) {
 	     // Crear un vector de tamaño 5
