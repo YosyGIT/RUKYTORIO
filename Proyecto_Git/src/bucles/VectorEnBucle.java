@@ -1,7 +1,7 @@
 package bucles;
 import java.util.Scanner;
 public class VectorEnBucle {
-	  public static void main(String[] args) {
+	 public static void main(String[] args) {
 	     // Crear un vector de tamaño 5
 	     int[] vector = new int[5];
 	 
@@ -19,7 +19,6 @@ public class VectorEnBucle {
 	     for (int i = 0; i < vector.length; i++) {
 	         System.out.println("Elemento " + (i + 1) + ": " + vector[i]);
 	     }
-	 
 	     scanner.close();
 	 	}
 	}
